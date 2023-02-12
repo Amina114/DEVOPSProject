@@ -5,4 +5,7 @@ Hello again
 
 changemnt dans la branche 1
  
-changement dans git 
+changement dans git
+
+
+salut changemnt apres git reset  
